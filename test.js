@@ -8,6 +8,7 @@ var movies = require('./movies');
  *  This test suite is meant to be run through gulp (use the `npm run watch`)
  *  script. It will provide you useful feedback while filling out the API in
  *  `interface.js`. You should **not** modify any of the below code.
+ Downloaded from github
  */
 describe('dbInterface', function() {
   var db;
