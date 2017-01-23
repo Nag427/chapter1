@@ -11,6 +11,7 @@ var movies = require('./movies');
  Downloaded from github
  changed at master branch
  Changed from Sanjeevini's system
+ New change from Snajeevinis system
  */
 describe('dbInterface', function() {
     var db;
